@@ -1,4 +1,4 @@
-import {ImGithub, ImLinkedin, ImYoutube} from 'react-icons/im' 
+import {ImGithub, ImLinkedin, ImYoutube} from 'react-icons/im' ;
 import Link from 'next/link';
 const Header = () => {
   return (
