@@ -11,7 +11,7 @@ const Header = () => {
           </div>
           <div className="w-80 shrink sm:order-2">
              <Link href={"/"}>
-              <a className='font-bold uppercase text-3xl'> Web Tech </a>
+              <a className='font-bold uppercase text-3xl'> Favorite Web Tech </a>
               </Link>
           </div>
           <div className="w-96 order-3 flex justify-center">
