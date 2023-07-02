@@ -9,7 +9,12 @@
 
 
 
-First, Run the development server:
+First, install Node
+```bash
+npm install
+```
+
+Run the development server:
 
 ```bash
 npm run dev
